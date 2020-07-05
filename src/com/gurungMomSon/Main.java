@@ -9,5 +9,6 @@ public class Main {
         System.out.println("hello is confusion");
         System.out.println("this is wired");
         System.out.println("this is wired number 2");
+        System.out.println("this is wired number 3");
     }
 }
